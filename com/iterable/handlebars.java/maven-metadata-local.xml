@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.iterable</groupId>
+  <artifactId>handlebars.java</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180612221604</lastUpdated>
+  </versioning>
+</metadata>
